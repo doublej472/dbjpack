@@ -46,21 +46,6 @@ hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
-file = "mods/botania.pw.toml"
-hash = "eba4ff5cf670964608c1a348e3090c1406fb2fb478d135aa15b376e7240e9297"
-metafile = true
-
-[[files]]
-file = "mods/cc-restitched.pw.toml"
-hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
-metafile = true
-
-[[files]]
-file = "mods/cccbridge.pw.toml"
-hash = "72a444170f6963bc57c323f98d01d22bdcd400be26a2bfd1d3d02ea34ad096de"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
 metafile = true
@@ -78,16 +63,6 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "ad083cc16c8a9e2b9aec947df1eeab8891bb0a80b46c34f169ba61ae4b54066e"
-metafile = true
-
-[[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "a51f3f98721a8e637e71c78d5413271cb0d4816a5d55a8b9cd5c19353d49f8a2"
-metafile = true
-
-[[files]]
-file = "mods/dashloader.pw.toml"
-hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
 metafile = true
 
 [[files]]
@@ -166,18 +141,8 @@ hash = "5f6bbdeff1476501410b0e6f304a3d37183d9774bd1b182c20ffd186bb140ba2"
 metafile = true
 
 [[files]]
-file = "mods/mo-structures.pw.toml"
-hash = "083e1237dbbc9ff8bd1ea9d4674043d964da40e0e0414830bd9a91a997a0bd28"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
-metafile = true
-
-[[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "f1ca8ddc248ddaf1a95cadc741c5f8387397ecfb3c957079add3b2881629de30"
 metafile = true
 
 [[files]]
@@ -201,11 +166,6 @@ hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.pw.toml"
-hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
 hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 metafile = true
@@ -221,11 +181,6 @@ hash = "201ab0485fc28e1b4a8fb04f620bfe94e19a3495131b939b67a701068de7f325"
 metafile = true
 
 [[files]]
-file = "mods/smoothboot-fabric.pw.toml"
-hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
@@ -233,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
