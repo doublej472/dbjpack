@@ -1,0 +1,13 @@
+name = "Watering Cans"
+filename = "watering-cans-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SreLFvQ3/versions/Ah9wh2Ry/watering-cans-1.0.2.jar"
+hash-format = "sha1"
+hash = "bed1cb19c173199b71ba1a292241cfe05d71df2f"
+
+[update]
+[update.modrinth]
+mod-id = "SreLFvQ3"
+version = "Ah9wh2Ry"
