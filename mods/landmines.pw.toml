@@ -1,13 +1,13 @@
 name = "Landmines"
-filename = "landmines-1.0.6-fabric-mc1.20.jar"
+filename = "landmines-1.0.7-fabric-mc1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/umx3sWHn/versions/IF6VTfxj/landmines-1.0.6-fabric-mc1.20.jar"
+url = "https://cdn.modrinth.com/data/umx3sWHn/versions/isNyrgrv/landmines-1.0.7-fabric-mc1.20.jar"
 hash-format = "sha1"
-hash = "d665642b39bdf6a59c481120512e42679a70f5c6"
+hash = "ff93dc127987e4d98e71e749c4191ab4111a1e49"
 
 [update]
 [update.modrinth]
 mod-id = "umx3sWHn"
-version = "IF6VTfxj"
+version = "isNyrgrv"

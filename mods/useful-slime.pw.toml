@@ -1,13 +1,13 @@
 name = "Useful Slime"
-filename = "UsefulSlime-fabric-1.20-1.6.0.jar"
+filename = "UsefulSlime-fabric-1.20.2-1.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CzM6C1W0/versions/QvgxfqpJ/UsefulSlime-fabric-1.20-1.6.0.jar"
+url = "https://cdn.modrinth.com/data/CzM6C1W0/versions/vbaZv8Ge/UsefulSlime-fabric-1.20.2-1.7.1.jar"
 hash-format = "sha1"
-hash = "a359282532e82cc15d7ef48b897bbb108847e48e"
+hash = "a26dd9010ce13659f46e8669b9290c9fa958854d"
 
 [update]
 [update.modrinth]
 mod-id = "CzM6C1W0"
-version = "QvgxfqpJ"
+version = "vbaZv8Ge"
