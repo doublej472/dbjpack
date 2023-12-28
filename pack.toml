@@ -1,13 +1,13 @@
 name = "DBJpack"
 author = "doublej472"
-version = "4.1.0"
+version = "5.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2a9d00e693c8f8a06e6681d3b2b690161053a5d52392ed108c23f254558acd12"
+hash = "99c6235f3b7a5dad8f52b72ec518db01c2848192ec9cd95dd031dad0eb728190"
 
 [versions]
-fabric = "0.15.2"
+fabric = "0.15.3"
 minecraft = "1.20.1"

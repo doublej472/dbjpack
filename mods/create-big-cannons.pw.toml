@@ -1,0 +1,13 @@
+name = "Create Big Cannons"
+filename = "createbigcannons-fabric-1.20.1-0.5.3.a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GWp4jCJj/versions/XQpPHFFQ/createbigcannons-fabric-1.20.1-0.5.3.a.jar"
+hash-format = "sha1"
+hash = "e0e4a89631e9f15639aa26fc1500c69eb68e2193"
+
+[update]
+[update.modrinth]
+mod-id = "GWp4jCJj"
+version = "XQpPHFFQ"
