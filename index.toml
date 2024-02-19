@@ -51,8 +51,18 @@ hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "deece4e278b0ef6d2b96dc69561ab11e34106ea8d3c29289e6060404f7614a87"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "dd3aeff0a29647d91c43ab34e1feb7a791aa2c6a39df597744f8cad09a32917d"
+hash = "feb55bf6d856555a845465691394e598d0977a175c539a659049963bba5e9131"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "972bab62f026fdec75bbfaf19cb443a35c966dcc21247baf010957acf7e37b09"
 metafile = true
 
 [[files]]
@@ -63,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "5d18f24b2970be8a167344548c8048bff859c1f9fd86513933a980ddc8a236cb"
 metafile = true
 
 [[files]]
@@ -81,6 +96,11 @@ hash = "c7ac97f198d23d00be8d98db22da394d69aa568c42ec9c66cf0473716857ad3c"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
@@ -88,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "107d43eaec4b656e198ac68571315ec47ed3f143b8d76800d88df702a678f041"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "f0f23eac48840383ebaf52be4efe094efd0f57a63f338c25c79d5f3ec3d73c3f"
 metafile = true
 
 [[files]]
@@ -156,13 +181,28 @@ hash = "d59267b7c76cda271d3edf00c50b532a5912eb1a1bafbe6a16f0ecffd78a4f4f"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "524acd510387c61c5f3c984e605fae03015434ae756b683d3b45a95951180394"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "86f38e24b17a8d4d832223a79dc58bea50c5050f498628b5034dd90431da40c9"
+metafile = true
+
+[[files]]
 file = "mods/rats.pw.toml"
 hash = "835f492eb562981d516fcce7b6784b8b83f81255166eb11bac1205a35dd32b0d"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
 metafile = true
 
 [[files]]
@@ -173,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
 metafile = true
 
 [[files]]
