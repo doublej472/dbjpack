@@ -71,6 +71,11 @@ hash = "8e619acfb38182c17ab923bc355df215e26d816c2b947f68ac3266b6dfeaa812"
 metafile = true
 
 [[files]]
+file = "mods/domestication-innovation.pw.toml"
+hash = "815edded2c6be145f2a82e48a4044955e4969a220d29d4290f395d38a6ff15e8"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "c7ac97f198d23d00be8d98db22da394d69aa568c42ec9c66cf0473716857ad3c"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "107d43eaec4b656e198ac68571315ec47ed3f143b8d76800d88df702a678f041"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "8d54463de9fc7dcfb00e27b700a78e1ba05a33a6cb7e5a4951c8ab3de4da472f"
 metafile = true
 
 [[files]]
@@ -153,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "524acd510387c61c5f3c984e605fae03015434ae756b683d3b45a95951180394"
+metafile = true
+
+[[files]]
+file = "mods/rats.pw.toml"
+hash = "835f492eb562981d516fcce7b6784b8b83f81255166eb11bac1205a35dd32b0d"
 metafile = true
 
 [[files]]
