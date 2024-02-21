@@ -6,6 +6,11 @@ hash = "39ccc21f796e7daa6b464c411e9433ac9a5407235d9ca8e7e2390999c289cdc4"
 metafile = true
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "e67c20c0a319836426359b068b37cb1750ce73c5ea3fb5b4644bf9baf77f2700"
+metafile = true
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "5e73e3f55cb5d0a6e469f53e9a887e70b881b3e3352fbc7e13550da541d0eefb"
 metafile = true
@@ -46,6 +51,11 @@ hash = "47a7f350e4f5d945aed55768997706063384022f965d2d1fdeb99f18fd2787e8"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "e76e06b15f24e2886c7a885efa59296177caa2cc7c6a41b80e8e63f0da5c3298"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
 metafile = true
@@ -56,8 +66,23 @@ hash = "deece4e278b0ef6d2b96dc69561ab11e34106ea8d3c29289e6060404f7614a87"
 metafile = true
 
 [[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "36cd91134f317a29282716c0ccaf6c273d807dd5bfbbf45b3799937d0a72552d"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "feb55bf6d856555a845465691394e598d0977a175c539a659049963bba5e9131"
+metafile = true
+
+[[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "5a793d8130c84c538c51a3e6a907c0ca0b5d791aba54904962567d361148724b"
 metafile = true
 
 [[files]]
@@ -76,11 +101,6 @@ hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
 
 [[files]]
-file = "mods/creeper-overhaul.pw.toml"
-hash = "5d18f24b2970be8a167344548c8048bff859c1f9fd86513933a980ddc8a236cb"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "8e619acfb38182c17ab923bc355df215e26d816c2b947f68ac3266b6dfeaa812"
 metafile = true
@@ -88,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/domestication-innovation.pw.toml"
 hash = "815edded2c6be145f2a82e48a4044955e4969a220d29d4290f395d38a6ff15e8"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "b6f44d5d64a041adcad7fd12f542d6dab5ba164f009650ef5b950d0287f7b252"
 metafile = true
 
 [[files]]
@@ -121,6 +146,11 @@ hash = "8d54463de9fc7dcfb00e27b700a78e1ba05a33a6cb7e5a4951c8ab3de4da472f"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "5e49ba90c82bc27ce64be5832c58577fdf1535ab7fd007ca5c3b791155047529"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "b6ed9cae894fd159b6f78f6b66228750f7f38b49bb2c25cab870485bb08d462e"
 metafile = true
@@ -133,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "5e784fdcad45d055720b307ac783ade533347385d5d5b95ee0374b31e8c55850"
+metafile = true
+
+[[files]]
+file = "mods/keep-some-inventory.pw.toml"
+hash = "e80bdeeb3623608e95f20f3c15095f97238c3663443a3642d6614518e680594a"
 metafile = true
 
 [[files]]
@@ -176,8 +211,23 @@ hash = "3f7bdeb890594497caa9fb7a05e340480d520b0a35c4ed47e044c041badeb5da"
 metafile = true
 
 [[files]]
+file = "mods/mob-captains.pw.toml"
+hash = "d2890336faf28e59c15902545b261bf39f020850e61174ba799169a5f67e9e52"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d59267b7c76cda271d3edf00c50b532a5912eb1a1bafbe6a16f0ecffd78a4f4f"
+metafile = true
+
+[[files]]
+file = "mods/more-bows-restrung.pw.toml"
+hash = "da32ef4fc48003b17887cb86fcf0eeece12a4cf090a738668ee7ded7250cb8a6"
+metafile = true
+
+[[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "81be2b2e43c7cf127cf5b67e1dae3a5d7788732442cae1480cd7cd423043197c"
 metafile = true
 
 [[files]]
@@ -233,6 +283,16 @@ metafile = true
 [[files]]
 file = "mods/thorium-reactors.pw.toml"
 hash = "f6a1ebfc93e7c65a78adb03ad26d982dea4b8b2c848c83a3acf6bcc97d96a594"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "51f3c6ae4661949dfc4765bcc817128e0fdd0e9f93be8f39795ef7273d2e2be1"
+metafile = true
+
+[[files]]
+file = "mods/villager-in-a-bucket.pw.toml"
+hash = "bf32293cb616dcc3e4e21200863e06ce5ffa0ec9dd6bcf6e2705335b799b803f"
 metafile = true
 
 [[files]]
