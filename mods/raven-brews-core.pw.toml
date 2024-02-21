@@ -1,0 +1,13 @@
+name = "Raven Brews Core"
+filename = "ravenbrewscore-forge-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Of5nwwX1/versions/8dJoGwzH/ravenbrewscore-forge-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "ee525146efeaee7226ce956bd10a6821b31b6887"
+
+[update]
+[update.modrinth]
+mod-id = "Of5nwwX1"
+version = "8dJoGwzH"

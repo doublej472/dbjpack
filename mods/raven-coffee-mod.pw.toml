@@ -1,0 +1,13 @@
+name = "Raven Coffee Mod"
+filename = "Raven Coffee-forge-1.20.1-0.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kRbKdNzy/versions/463BhZfZ/Raven%20Coffee-forge-1.20.1-0.5.0.jar"
+hash-format = "sha1"
+hash = "9851d13554c5a0defb2a1642072ef6845d6f23c3"
+
+[update]
+[update.modrinth]
+mod-id = "kRbKdNzy"
+version = "463BhZfZ"

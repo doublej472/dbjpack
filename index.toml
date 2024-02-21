@@ -251,6 +251,16 @@ hash = "835f492eb562981d516fcce7b6784b8b83f81255166eb11bac1205a35dd32b0d"
 metafile = true
 
 [[files]]
+file = "mods/raven-brews-core.pw.toml"
+hash = "819b5a5523322cf9011e050b031c252b3b0fae26e30583ee56245800c93c6363"
+metafile = true
+
+[[files]]
+file = "mods/raven-coffee-mod.pw.toml"
+hash = "3b3551fddb347c78991f869dbfb256d2eab300a0f901434702abe1654cb20fe4"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
 metafile = true
