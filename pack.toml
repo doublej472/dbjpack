@@ -1,12 +1,12 @@
 name = "DBJpack-neoforge"
 author = "doublej472"
-version = "2.2.0"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f33afbded4f7baba798322151673e15f608c563ffd2b572e2d8357cf6f32e6a6"
+hash = "cdfb7f7ba09edd5392ff5edb8d0b4dbf0ef99ec92272bac88282e39f1a614a56"
 
 [versions]
 minecraft = "1.20.1"

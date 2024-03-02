@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "7d5eb25199e344492a4989cdc8325851391e57430f811767d348a7f9e1a088ff"
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "39ccc21f796e7daa6b464c411e9433ac9a5407235d9ca8e7e2390999c289cdc4"
 metafile = true
@@ -56,6 +60,11 @@ hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
+file = "mods/areas.pw.toml"
+hash = "ccf095750f8dcf523f1039ae894f5b2b2ddd9ec46a8aa23a3cb45143a457e0a3"
+metafile = true
+
+[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "e76e06b15f24e2886c7a885efa59296177caa2cc7c6a41b80e8e63f0da5c3298"
 metafile = true
@@ -103,6 +112,26 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "8875c35e0d48e5a048b7e789c013318a593724b4dad1eb8197e0c1c394f57265"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "28cd35abd7f84a4d2f04fb50128bf272cafeac126dbdd6c20cb9c27eb0cd3d76"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "f65266cb549dfdbd4e72288d5c80be2090a288c0986800fcabc0de1702d634c4"
 metafile = true
 
 [[files]]
@@ -276,6 +305,11 @@ hash = "e86fca9e94607b38dca7c8de6ba3c231fd762721aee1c25405f1210a8ffd5998"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
 metafile = true
@@ -331,6 +365,61 @@ hash = "ea246ad0580b48133dfacf549f53c0cbcb3577f5e838f7374e685963594427f8"
 metafile = true
 
 [[files]]
+file = "shaderpacks/astralex.pw.toml"
+hash = "aa63b94d5bd27a1898d54cb36466b916299d51367e04f3f54472d36f7e871174"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "68b79902d98bc38e4705b621dcc54321e35742f696b462070d457cf7156d7921"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/fastpbr.pw.toml"
+hash = "d7d710edc5451d7f4b5f4e6f3f047fd1cc130787a230257a8db94edbb6aa96fe"
+metafile = true
+
+[[files]]
+file = "shaderpacks/insanity-shader.pw.toml"
+hash = "a75fbb782eeb80682c3c742edc9496960f7eaccb7387a1f978cc4175797d661d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/nostalgia-shader.pw.toml"
+hash = "5617b60662b2e1c8333e47c4f43a4185fe633c05e629c1ec06d1d539b22e654c"
+metafile = true
+
+[[files]]
 file = "shaderpacks/pixel-perfect.pw.toml"
 hash = "fa74fcb377b138dba41aa391436f918178dea9e709fea7dede15357e1d3714fc"
+metafile = true
+
+[[files]]
+file = "shaderpacks/shrimple.pw.toml"
+hash = "49e6dfd941f8111e02f515b314516dfaddf70b9410429330e56ef69828d31394"
+metafile = true
+
+[[files]]
+file = "shaderpacks/soft-voxels-lite.pw.toml"
+hash = "dccf81755f47593100c148952d7f36815f70da39a36375b08eabfd1a96631d14"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "50ca37438eae5a655f61902d7e498469f0cceddbb6ea42b4648001be50d3af5e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "1683c77bd28b838c8e79222036a0ecd0ae040d07f61f752faab6fbdf3672f1fb"
 metafile = true
