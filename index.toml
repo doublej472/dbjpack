@@ -131,6 +131,11 @@ hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "ae55eda5b79aeb01fd4068cc34051019e34779c2d4748aba86e5dba522b7b61d"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
@@ -178,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "0fafa1fc77eb8f825bc8b5ebabdb71c4030bf9dd3e8496f6e169016198393ea1"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
