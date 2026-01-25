@@ -1,0 +1,13 @@
+name = "Smokeleaf Industries"
+filename = "smokeleafindustries-0.5.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V0xdbyG2/versions/rudoj4Mt/smokeleafindustries-0.5.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "1e383aa30743aa4376080a7789eb07d1d2044c07d7f710fa32bbd969be82d0a3ee1f5d736ccf0b93ba9d68ebff8b11e78bd2853f5276db3ef30aa22e9132ad26"
+
+[update]
+[update.modrinth]
+mod-id = "V0xdbyG2"
+version = "rudoj4Mt"
